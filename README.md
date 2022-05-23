@@ -14,7 +14,7 @@ This APIs is for the e-commerce retail frontend project and can support the full
 ### Technologies
 Javascript, Express, Express Router, Axios, PostgreSQL database, 
 
-##### You can find Front End Website and all the APIs for the website here:
+##### You can find Front End Website and all the APIs for the website here: 
 https://github.com/SDC-WDC
 
 
