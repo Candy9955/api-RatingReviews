@@ -1,5 +1,5 @@
 # Reviews API for E-commerce website
-This is a group project I did in Hack Reactor. I am responsible for the reviews API
+This was a group project I did in Hack Reactor. I was responsible for the reviews API
 
 ### Description
 This APIs is for the e-commerce retail frontend project and can support the full data set for the frontend. 
